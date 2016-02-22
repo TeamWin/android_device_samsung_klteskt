@@ -1,0 +1,2 @@
+add_lunch_combo omni_klteskt-eng
+add_lunch_combo omni_klteskt-userdebug
